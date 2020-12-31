@@ -1,0 +1,38 @@
+{
+  "name": "Cinosxi",
+  "short_name": "Cinosxi",
+  "start_url": "https://www.cinosxi.eu.org/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#00CC47",
+  "description": "Share interesting information about quotes, motivational quotes, instagram quotes, love quotes. life quotes.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-cN7416F5St4/X-1h09gagtI/AAAAAAAAAjs/er1EYDw6NdQQ965jEoVaB5Wc6GQRSg4mACLcBGAsYHQ/s48/CXI.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-cN7416F5St4/X-1h09gagtI/AAAAAAAAAjs/er1EYDw6NdQQ965jEoVaB5Wc6GQRSg4mACLcBGAsYHQ/s72/CXI.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-cN7416F5St4/X-1h09gagtI/AAAAAAAAAjs/er1EYDw6NdQQ965jEoVaB5Wc6GQRSg4mACLcBGAsYHQ/s96/CXI.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-cN7416F5St4/X-1h09gagtI/AAAAAAAAAjs/er1EYDw6NdQQ965jEoVaB5Wc6GQRSg4mACLcBGAsYHQ/s144/CXI.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-cN7416F5St4/X-1h09gagtI/AAAAAAAAAjs/er1EYDw6NdQQ965jEoVaB5Wc6GQRSg4mACLcBGAsYHQ/s168/CXI.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-cN7416F5St4/X-1h09gagtI/AAAAAAAAAjs/er1EYDw6NdQQ965jEoVaB5Wc6GQRSg4mACLcBGAsYHQ/s192/CXI.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-cN7416F5St4/X-1h09gagtI/AAAAAAAAAjs/er1EYDw6NdQQ965jEoVaB5Wc6GQRSg4mACLcBGAsYHQ/s512/CXI.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
